@@ -1,8 +1,7 @@
 THE IDEA: Storing audio messages on url servers.
 --
-For testing purposes, an executable 'pcode' file for Matlab is provided.
-The file will automatically install into Matlab under "Apps".
-Yes, Matlab is needed to test it.
+For testing purposes, 2 executables for Matlab are provided.
+The files will automatically install into Matlab under "Apps".
 Functions: recording, uploading, downloading, playback of audio messages.
 
 
